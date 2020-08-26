@@ -1,5 +1,5 @@
 
-###  <span style="color:orange"> Periodismo-con-TextMining </span>
+ ### <span style="color:orange"> Periodismo-con-TextMining </span>
 El siguiente repositorio forma parte del Trabajo de Fin de Máster "Modelo para la minería de texto en el sector periodístico", realizado por Julia Lleó Pérez-Abadín para el Máster Letras Digitales de la Universidad Complutense de Madrid durante el curso 2019-2020.
 En él, se presenta un **modelo de aplicación para la minería de texto en el sector periodístico** para futuras investigaciones. Para su desarrollo y ejecución, se utilizan herramientas del campo del Procesamiento del Lenguaje Natural a través del lenguaje Python lanzado con la aplicación web JupyterLab. No se desarrollarán nuevos algoritmos para el análisis, sino que se aplica el uso de bibliotecas de PLN en Python y métodos de Análisis de sentimiento y Modelización de tópicos.
 Se trata de un modelo abstracto de las fórmulas con que obtener los resultados de estudio. En el mismo trabajo se encuentra una muestra de su apliación a un caso de uso concreto: el estudio de la cobertura dada a la pandemia por coronavirus en los diez medios digitales más importantes de España en el mes de marzo de 2020.
