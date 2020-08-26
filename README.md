@@ -14,8 +14,8 @@ El flujo de trabajo recorrido pasa por las siguientes fases:
 -	Interpretación de los datos obtenidos.
 
 Para poder hacer uso de los programas del repositorio, se deberá clonar o descargar el mismo y abrirlo a través de una libreta Jupyter a través de Anaconda. También se deberán **descargar algunas bibliotecas** previamente:
-- https://anaconda.org/conda-forge/wordcloud
-- https://anaconda.org/anaconda/gensim
-- https://anaconda.org/conda-forge/keras
-- https://anaconda.org/conda-forge/tensorflow
-- https://pypi.org/project/sentiment-analysis-spanish/
+1 https://anaconda.org/conda-forge/wordcloud
+2 https://anaconda.org/anaconda/gensim
+3 https://anaconda.org/conda-forge/keras
+4 https://anaconda.org/conda-forge/tensorflow
+5 https://pypi.org/project/sentiment-analysis-spanish/
